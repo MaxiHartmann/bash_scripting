@@ -1,0 +1,18 @@
+MCU status:
+Left wheel:	PWM [0.0000] RPM [000000] ODO [000000] SP [000000]
+Right wheel:	PWM [0.0000] RPM [000000] ODO [000000] SP [000000]
+Main brush:	PWM [0.0002] RPM [000004] CUR [0.0006]
+Side brush:	PWM [0.0020] RPM [000040] CUR [0.0060]
+Blower:		PWM [0.4244] RPM [016414]
+IMU:		ACCM [0.04369] [-0.17953] [9.80102]
+		GYRO [-0.00764] [-0.00871] [-0.00565]
+		POSE [-0.01843] [-0.00429] [0.01007]
+		GRAV [0.04205] [-0.18061] [9.76803]
+		ACCE [0.00164] [0.00108] [0.03299]
+ToFs:		L  [000000] R  [000000] RR [000000] FR [000000] WL [000000]
+Buttons:	PB [      ] IB [      ]
+Charger voltage: [0.00000]
+Battery capacity: 98%
+Critical events: Locked [ 0x00000000 ] Current [ 0x00000000 ]
+Temp, Main Board: 37.250C
+Temp, TOF Camera: 25.875C
